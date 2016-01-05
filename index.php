@@ -46,38 +46,51 @@
             <section id="portfolio">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-4 portfolio-item text-center" ><!-- projects about and blog dialog -->
-                            
-                            <a href="#">
 
+                        <div class="col-sm-4 portfolio-item text-center">
+                            <div class="hovereffect">
+                                <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
+
+                                <h1>Projects</h1>
+                                <p>Lorem ipsum .....</p> 
+
+                                <div class="overlay">
+                                    <h2>Hover effect 9</h2>
+                                    <a class="info" href="#">link here</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-4 portfolio-item text-center">
+                            <div class="hovereffect">
                                 <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
 
 
-                            </a>
-                            <h1>Projects</h1>
-                            <p>Lorem ipsum .....</p> 
-
-
-
+                                <h1>About Me</h1>
+                                <p>Lorem ipsum .....</p> 
+                                <div class="overlay">
+                                    
+                                    
+                                    <h2>Hover effect 9</h2>
+                                    <a class="info" href="#">link here</a>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-sm-4 portfolio-item text-center" >
-                            <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
-                            <h1>Projects</h1>
-                            <p>Lorem ipsum .....</p> 
 
-                            </a>
+                        <div class="col-sm-4 portfolio-item text-center">
+                            <div class="hovereffect">
+                                <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
 
 
+                                <h1>Blog</h1>
+                                <p>Lorem ipsum .....</p> 
+                                <div class="overlay">
+                                    <h2>Hover effect 9</h2>
+                                    <a class="info" href="#">link here</a>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-sm-4 portfolio-item text-center" >
-                            <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
-                            <h1>Projects</h1>
-                            <p>Lorem ipsum .....</p> 
 
-                            </a>
-
-
-                        </div>
                     </div>
                 </div>
             </section><!--portfollio-->
