@@ -1,8 +1,4 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
+
 /* 
     Created on : 04-Jan-2016, 19:58:31
     Author     : jago16
@@ -17,36 +13,35 @@ html body{
     margin-right: auto;
     margin-left: auto;
 }
+
 .logo{
     height: 150px;
     background-color: red;
-
-
 }
+
 .menu{
     background-color: pink;
     height: 50px;
     border: 1px solid black;
 }
+
 .navbar{
     border-radius: 0px;
 }
+
 .content{
     padding-right: 10px;
     padding-left: 10px;
     margin-right: 10px;
     margin-left: 10px;
     border: 1px solid black;
+}
 
-}
 .portfolio-item  {
-    
-  
-  
-  
-    
+      
 }
-/*hover effect css */
+
+/*hover effect css from TBA*/
 .hovereffect {
   width: 100%;
   height: 100%;
